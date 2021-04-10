@@ -8,7 +8,7 @@
 ## 2、部署
 
 ### 操作系统
-win或linux
+win或linux，推荐使用linux
 
 ### python
 python 3.x， 需要3.7及以下（3.8中smtplib.SMTP_SSL无法使用）  
@@ -23,5 +23,16 @@ driver：http://npm.taobao.org/mirrors/chromedriver/
 注意chrome和driver版本需要匹配
 
 ### 修改个人参数
+win：修改task_git.bat  
+linux：修改task_git.sh  
 
+第一行：python安装路径和py脚本绝对路径  
+参数：  
+--phone 1________ ：研招网账号  
+--passwd _________ ：研招网密码  
+--driver_path /opt/google/chrome/chromedriver ：driver绝对路径    
+--majors 金融, 国际商务, 保险, 税务, 资产评估 ：专业列表，使用精确搜索  
+--mail163_user ______@163.com ：用于发送邮件的163邮箱  
+--mail163_pass _____________ ：开启SMTP时的密码（不是邮箱密码）https://zhidao.baidu.com/question/1060071.html    
+--receivers _____________ ：收件人列表  
 

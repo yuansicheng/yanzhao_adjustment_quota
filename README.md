@@ -36,3 +36,9 @@ linux：修改task_git.sh
 --mail163_pass _____________ ：开启SMTP时的密码（不是邮箱密码）https://zhidao.baidu.com/question/1060071.html    
 --receivers _____________ ：收件人列表  
 
+### 设置定时任务
+win：https://blog.csdn.net/xc_zhou/article/details/107418874
+linux：https://www.runoob.com/w3cnote/linux-crontab-tasks.html
+
+### 祝大家早日上岸！
+

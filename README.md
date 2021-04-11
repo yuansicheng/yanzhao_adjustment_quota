@@ -37,8 +37,8 @@ linux：修改task_git.sh
 --receivers _____________ ：收件人列表，空格分隔  
 
 ### 设置定时任务
-win：https://blog.csdn.net/xc_zhou/article/details/107418874
-linux：https://www.runoob.com/w3cnote/linux-crontab-tasks.html
+win：https://blog.csdn.net/xc_zhou/article/details/107418874  
+linux：https://www.runoob.com/w3cnote/linux-crontab-tasks.html  
 
 ### 祝大家早日上岸！
 
